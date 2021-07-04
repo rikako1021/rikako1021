@@ -51,5 +51,5 @@ Here are some ideas to get you started:
   <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
   <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
   
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&title_color=＃000000" />
+<p>&nbsp;<img align="left" height:100px; src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&title_color=＃000000" />
 <img align="" src="https://github-readme-stats.vercel.app/api?username=rikako1021&show_icons=true&theme=vue&locale=en&count_private=true&hide=contribs" alt="rikako1021" /></p>
