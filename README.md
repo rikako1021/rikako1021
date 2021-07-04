@@ -52,4 +52,4 @@ Here are some ideas to get you started:
   <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
   
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rikako1021&show_icons=true&theme=draculalocale=en" alt="rikako1021" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rikako1021&show_icons=true&theme=vue&locale=en" alt="rikako1021" /></p>
