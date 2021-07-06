@@ -61,4 +61,4 @@ Here are some ideas to get you started:
 
   
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&title_color=＃000000"　height=150% />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rikako1021&show_icons=true&theme=Gradient&locale=en&count_private=true&hide=contribs" alt="rikako1021" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=rikako1021&show_icons=true&theme=graywhite&locale=en&count_private=true&hide=contribs" alt="rikako1021" /></p>
