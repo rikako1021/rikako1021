@@ -42,6 +42,10 @@ Here are some ideas to get you started:
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat-square">
+<img src="https://img.shields.io/badge/-Eslint-4B32C3.svg?logo=eslint&style=flat-square">
+<img src="https://img.shields.io/badge/-Firebase-FFCA28.svg?logo=firebase&style=flat-square&logoColor=white">
+<img src="https://img.shields.io/badge/-Github-181717.svg?logo=github&style=flat-square">
   
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&title_color=＃000000"　height=150% />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=rikako1021&show_icons=true&theme=vue&locale=en&count_private=true&hide=contribs" alt="rikako1021" /></p>
