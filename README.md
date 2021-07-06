@@ -50,15 +50,14 @@ Here are some ideas to get you started:
   </p>
   <p>
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Github-181717.svg?logo=github&style=flat-square">
-    <img src="https://img.shields.io/badge/-Mysql-4479A1.svg?logo=mysql&style=flat-square&logoColor=white">
-    <img src="https://img.shields.io/badge/-Firebase-FFCA28.svg?logo=firebase&style=flat-square&logoColor=white">
-  <img src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-<img src="https://img.shields.io/badge/-Eslint-4B32C3.svg?logo=eslint&style=flat-square">
-<img src="https://img.shields.io/badge/-R-276DC3.svg?logo=r&style=flat-square">
-<img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-  </P>
-
+    <img src="https://img.shields.io/badge/-Github-181717.svg?logo=github&style=flat-square">
+      <img src="https://img.shields.io/badge/-Mysql-4479A1.svg?logo=mysql&style=flat-square&logoColor=white">
+        <img src="https://img.shields.io/badge/-Firebase-FFCA28.svg?logo=firebase&style=flat-square&logoColor=white">
+          <img src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+            <img src="https://img.shields.io/badge/-Eslint-4B32C3.svg?logo=eslint&style=flat-square">
+              <img src="https://img.shields.io/badge/-R-276DC3.svg?logo=r&style=flat-square">
+                <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
+  </p>
 
   
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&title_color=＃000000"　height=150% />
