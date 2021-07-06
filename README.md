@@ -60,5 +60,7 @@ Here are some ideas to get you started:
   </p>
 
   
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&title_color=＃000000"　height=150% />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rikako1021&show_icons=true&theme=graywhite&locale=en&count_private=true&hide=contribs" alt="rikako1021" /></p>
+<p>&nbsp;
+  <img height="169" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikako1021&layout=compact&theme=react"　>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=rikako1021&show_icons=true&theme=react&locale=en&count_private=true&hide=contribs">
+  </p>
