@@ -22,10 +22,7 @@ Here are some ideas to get you started:
   <a href="http://twitter.com/C3Vo3">
     <img height="20" src="https://img.shields.io/twitter/follow/C3Vo3?label=Twitter&logo=twitter&style=flat" />
   </a>
-  <a href="https://github.com/rikako1021">
-    <img height="20" src="https://img.shields.io/github/followers/rikako1021?label=follow&logo=github&style=flat" />
-  </a>
-  <a href="http://qiita.com/1021">
+  <a href="http://qiita.com/rikako1021">
     <img height="20" src="https://qiita-badge.apiapi.app/s/rikako1021/posts.svg" />
   </a>
   <//qiita.com/rikako1021">
