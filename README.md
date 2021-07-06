@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 
 <h3 align="left">Languages and Tools</h3>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+  ("https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white")
     <img src="https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat-square">
       <img src="https://img.shields.io/badge/-Javascript-F7DF1E.svg?logo=javascript&style=flat-square&logoColor=white">
         <img src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
