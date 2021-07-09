@@ -65,7 +65,8 @@ Here are some ideas to get you started:
   <br>
     
 <h3 align="left">I joined in</h3>
-  * Supporters' Hackathon. 
-  * SoftBank BBWC Hackathon
+  <ul>
+    <li>Supporters' Hackathon</li>
+    <li>SoftBank BBWC Hackathon</li>
     
 <br>
