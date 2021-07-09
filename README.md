@@ -62,7 +62,10 @@ Here are some ideas to get you started:
 <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=rikako1021&show_icons=true&theme=react&locale=en&count_private=true&hide=contribs">
   </p>
 
+  <br>
+    
 <h3 align="left">I joined in</h3>
-  * Supporters' Hackathon
+  * Supporters' Hackathon. 
   * SoftBank BBWC Hackathon
     
+<br>
