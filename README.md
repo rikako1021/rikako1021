@@ -8,10 +8,10 @@
     <img height="20" src="https://img.shields.io/twitter/follow/C3Vo3?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="http://qiita.com/rikako1021">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/sugar/posts.svg" />
+    <img height="20" src="https://qiita-badge.apiapi.app/s/rikako1021/posts.svg" />
   </a>
   <//qiita.com/rikako1021">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/rikako1021/contributions.svg" />
+    <img height="20" src="https://qiita-badge.apiapi.app/s/sugar/contributions.svg" />
   </a>
 </p>
 
