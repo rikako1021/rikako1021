@@ -53,6 +53,6 @@
   <ul>
     <li>Supporters' Hackathon</li>
     <li>SoftBank BBWC Hackathon '21</li>
-    <li>NRI summerIS '21<li>
+    <li>NRI summerIS '21</li>
     
 <br>
