@@ -52,6 +52,7 @@
 <h3 align="left">I joined in</h3>
   <ul>
     <li>Supporters' Hackathon</li>
-    <li>SoftBank BBWC Hackathon</li>
+    <li>SoftBank BBWC Hackathon '21</li>
+    <li>NRI summerIS '21<li>
     
 <br>
