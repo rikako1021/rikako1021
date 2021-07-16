@@ -40,7 +40,6 @@
               <img src="https://img.shields.io/badge/-R-276DC3.svg?logo=r&style=flat-square">
                 <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   </p>
-
   
 <p>&nbsp;
   <img height="150" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikako1021&layout=compact&theme=react"　>
