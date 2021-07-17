@@ -48,7 +48,7 @@
 
   <br>
     
-<h3 align="left">Participate in</h3>
+<h3 align="left">Participated in</h3>
   <ul>
     <li>Supporters' Hackathon vol.5</li>
     <li>SoftBank BBWC '21</li>
