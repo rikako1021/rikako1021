@@ -4,7 +4,7 @@
   <a href="https://github.com/rikako1021/rikako1021/">
     <img src="https://komarev.com/ghpvc/?username=rikako1021" alt="rikako1021" />
   </a>
-  <a href="http://twitter.com/C3Vo3">
+  <a href="/">
     <img height="20" src="https://img.shields.io/twitter/follow/C3Vo3?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="http://qiita.com/rikako1021">
