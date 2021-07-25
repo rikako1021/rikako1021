@@ -25,10 +25,13 @@
             <img src="https://img.shields.io/badge/-Yarn-2C8EBB.svg?logo=yarn&style=flat-square&logoColor=white">
             <img src="https://img.shields.io/badge/-Vue.js-4FC08D.svg?logo=vue.js&style=flat-square&logoColor=white">
               <img src="https://img.shields.io/badge/-Nuxt.js-00C58E.svg?logo=nuxt.js&style=flat-square&logoColor=white">
+                <img src="https://img.shields.io/badge/-React-61DAFB.svg?logo=react&style=flat-square&logoColor=white">
                 <img src="https://img.shields.io/badge/-Java-007396.svg?logo=java&style=flat-square">
     <img src="https://img.shields.io/badge/-Go-76E1FE.svg?logo=go&style=flat-square&logoColor=white">
 <img src="https://img.shields.io/badge/-PHP-777BB4.svg?logo=php&style=flat-square&logoColor=white">
   <img src="https://img.shields.io/badge/-Laravel-E74430.svg?logo=laravel&style=flat-square&logoColor=white">
+    <img src="https://img.shields.io/badge/-R-276DC3.svg?logo=r&style=flat-square">
+   <img src="https://img.shields.io/badge/-Markdown-000000.svg?logo=markdown&style=flat-square">
   </p>
   <p>
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -37,8 +40,12 @@
         <img src="https://img.shields.io/badge/-Firebase-FFCA28.svg?logo=firebase&style=flat-square&logoColor=white">
           <img src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
             <img src="https://img.shields.io/badge/-Eslint-4B32C3.svg?logo=eslint&style=flat-square">
-              <img src="https://img.shields.io/badge/-R-276DC3.svg?logo=r&style=flat-square">
                 <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
+                  <img src="https://img.shields.io/badge/-Eclipse-2C2255.svg?logo=eclipseide&style=flat-square">
+<img src="https://img.shields.io/badge/-Figma-F24E1E.svg?logo=figma&style=flat-square&logoColor=white">
+<img src="https://img.shields.io/badge/-Google%20Cloud-4285F4.svg?logo=google-cloud&style=flat-square&logoColor=white">
+<img src="https://img.shields.io/badge/-Slack-4A154B.svg?logo=slack&style=flat-square">
+<img src="https://img.shields.io/badge/-Trello-0079BF.svg?logo=trello&style=flat-square">
   </p>
   
 <p>&nbsp;
