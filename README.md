@@ -59,9 +59,8 @@
   <ul>
     <li>Supporters' Hackathon vol.5</li>
     <li>SoftBank BBWC '21</li>
-    <!-- <li>JAIS summer IS '21</li> -->
+    <li>JAIS summer IS '21</li>
     <li>NRI summer IS(ITS) '21</li>
-    <!-- <li>Tokyo MARINE summer IS(ITstrategy) '21</li> -->
       <br/>
     
 <br>
