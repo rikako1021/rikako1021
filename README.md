@@ -60,7 +60,7 @@
     <li>Supporters' Hackathon vol.5</li>
     <li>SoftBank BBWC '21</li>
     <li>JAIS summer IS '21</li>
-    <li>NRI summer IS(ITS) '21</li>
+    <li>MUFG summer IS(IT) '21</li>
       <br/>
     <li>Intern in Otomoni, Inc. (2021.8～)</li>
 <br>
