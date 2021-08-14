@@ -57,10 +57,11 @@
     
 <h3 align="left">Participated in</h3>
   <ul>
-    <li>Supporters' Hackathon vol.5</li>
-    <li>SoftBank BBWC '21</li>
-    <li>JAIS summer IS '21</li>
-    <li>MUFG summer IS(IT) '21</li>
+    <li>Supporters' Hackathon vol.5 (2021.7)</li>
+    <li>SoftBank BBWC '21 (2021.8)</li>
+    <li>MUFG summer IS(IT) '21 (2021.8)</li>
+    <li>JAIS summer IS '21 (2021.9)</li>
+    <li>NEC Solution Innovator (2021.9)</li>
       <br/>
     <li>Intern in Otomoni, Inc. (2021.8～)</li>
 <br>
