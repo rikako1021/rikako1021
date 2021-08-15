@@ -59,7 +59,7 @@
   <ul>
     <li>Supporters' Hackathon vol.5 (2021.7)</li>
     <li>SoftBank BBWC (2021.8)</li>
-    <li>NRI summer IS(ITsolution)
+    <li>NRI summer IS(ITsolution) (2021.8)</li>
     <li>MUFG summer IS(IT) (2021.8)</li>
     <li>JAIS summer IS (2021.9)</li>
     <li>NEC SI Innovator's Camp (2021.9)</li>
