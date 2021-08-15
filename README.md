@@ -30,6 +30,9 @@
     <img src="https://img.shields.io/badge/-Go-76E1FE.svg?logo=go&style=flat-square&logoColor=white">
 <img src="https://img.shields.io/badge/-PHP-777BB4.svg?logo=php&style=flat-square&logoColor=white">
   <img src="https://img.shields.io/badge/-Laravel-E74430.svg?logo=laravel&style=flat-square&logoColor=white">
+<img src="https://img.shields.io/badge/-Jupyter-F37626.svg?logo=jupyter&style=flat-square&logoColor=white">
+<img src="https://img.shields.io/badge/-Python-3776AB.svg?logo=python&style=flat-square&logoColor=white">
+
     <img src="https://img.shields.io/badge/-R-276DC3.svg?logo=r&style=flat-square">
    <img src="https://img.shields.io/badge/-Markdown-000000.svg?logo=markdown&style=flat-square">
   </p>
