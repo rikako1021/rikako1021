@@ -40,8 +40,6 @@
     <img src="https://img.shields.io/badge/-Github-181717.svg?logo=github&style=flat-square">
       <img src="https://img.shields.io/badge/-Mysql-4479A1.svg?logo=mysql&style=flat-square&logoColor=white">
         <img src="https://img.shields.io/badge/-Firebase-FFCA28.svg?logo=firebase&style=flat-square&logoColor=white">
-          <img src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-            <img src="https://img.shields.io/badge/-Eslint-4B32C3.svg?logo=eslint&style=flat-square">
                 <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
                   <img src="https://img.shields.io/badge/-Eclipse-2C2255.svg?logo=eclipseide&style=flat-square">
 <img src="https://img.shields.io/badge/-Figma-F24E1E.svg?logo=figma&style=flat-square&logoColor=white">
