@@ -64,6 +64,7 @@
   <li>NRI summer IS(ITsolution) (2021.8)</li>
  <!--   <li>MUFG summer IS(IT) (2021.8)</li> -->
     <li>NEC SI Innovator's Camp (2021.9)</li>
+<li>Heroes League 2021 (2021.11)</li>
       <br/>
     <li>Intern in Otomoni, Inc. (2021.8～)</li>
 <br>
