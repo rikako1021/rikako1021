@@ -44,8 +44,6 @@
 <!--                   <img src="https://img.shields.io/badge/-Eclipse-2C2255.svg?logo=eclipseide&style=flat-square"> -->
 <img src="https://img.shields.io/badge/-Figma-F24E1E.svg?logo=figma&style=flat-square&logoColor=white">
 <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4.svg?logo=google-cloud&style=flat-square&logoColor=white">
-<img src="https://img.shields.io/badge/-Slack-4A154B.svg?logo=slack&style=flat-square">
-<img src="https://img.shields.io/badge/-Trello-0079BF.svg?logo=trello&style=flat-square">
 <img src="https://img.shields.io/badge/-Adobe%20XD-FF2BC2.svg?logo=adobe-xd&style=flat-square&logoColor=white">
 <img src="https://img.shields.io/badge/-Adobe%20illustrator-FF7C00.svg?logo=adobe-illustrator&style=flat-square&logoColor=white">
 <img src="https://img.shields.io/badge/-Android%20Studio-A4C639.svg?logo=android&style=flat-square&logoColor=white">
