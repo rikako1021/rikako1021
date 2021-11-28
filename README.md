@@ -17,8 +17,8 @@
 
 
 <h3 align="left">Languages and Tools</h3>
-  <p> <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
-    <img src="https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat-square"> 
+<p> <!-- <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
+    <img src="https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat-square">  -->
     <img src="https://img.shields.io/badge/-Javascript-F7DF1E.svg?logo=javascript&style=flat-square&logoColor=white">
     <img src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white">
           <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white">
@@ -41,13 +41,14 @@
       <img src="https://img.shields.io/badge/-Mysql-4479A1.svg?logo=mysql&style=flat-square&logoColor=white">
         <img src="https://img.shields.io/badge/-Firebase-FFCA28.svg?logo=firebase&style=flat-square&logoColor=white">
                 <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-                  <img src="https://img.shields.io/badge/-Eclipse-2C2255.svg?logo=eclipseide&style=flat-square">
+<!--                   <img src="https://img.shields.io/badge/-Eclipse-2C2255.svg?logo=eclipseide&style=flat-square"> -->
 <img src="https://img.shields.io/badge/-Figma-F24E1E.svg?logo=figma&style=flat-square&logoColor=white">
 <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4.svg?logo=google-cloud&style=flat-square&logoColor=white">
 <img src="https://img.shields.io/badge/-Slack-4A154B.svg?logo=slack&style=flat-square">
 <img src="https://img.shields.io/badge/-Trello-0079BF.svg?logo=trello&style=flat-square">
 <img src="https://img.shields.io/badge/-Adobe%20XD-FF2BC2.svg?logo=adobe-xd&style=flat-square&logoColor=white">
 <img src="https://img.shields.io/badge/-Adobe%20illustrator-FF7C00.svg?logo=adobe-illustrator&style=flat-square&logoColor=white">
+<img src="https://img.shields.io/badge/-Android%20Studio-A4C639.svg?logo=android&style=flat-square&logoColor=white">
   </p>
   
 <p>&nbsp;
@@ -65,6 +66,4 @@
  <!--   <li>MUFG summer IS(IT) (2021.8)</li> -->
     <li>NEC SI Innovator's Camp (2021.9)</li>
 <li>Heroes League 2021 (2021.11)</li>
-      <br/>
-    <li>Intern in Otomoni, Inc. (2021.8～)</li>
 <br>
