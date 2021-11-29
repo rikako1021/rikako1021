@@ -26,6 +26,8 @@
             <img src="https://img.shields.io/badge/-Vue.js-4FC08D.svg?logo=vue.js&style=flat-square&logoColor=white">
               <img src="https://img.shields.io/badge/-Nuxt.js-00C58E.svg?logo=nuxt.js&style=flat-square&logoColor=white">
                 <img src="https://img.shields.io/badge/-React-61DAFB.svg?logo=react&style=flat-square&logoColor=white">
+ </p>
+ <p>
     <img src="https://img.shields.io/badge/-Go-76E1FE.svg?logo=go&style=flat-square&logoColor=white">
 <img src="https://img.shields.io/badge/-PHP-777BB4.svg?logo=php&style=flat-square&logoColor=white">
   <img src="https://img.shields.io/badge/-Laravel-E74430.svg?logo=laravel&style=flat-square&logoColor=white">
