@@ -47,11 +47,4 @@
 
   <br>
     
-<h3 align="left">Participated in</h3>
-  <ul>
-    <li>Supporters' Hackathon vol.5 (2021.7)</li>
- 　  <li>SoftBank BBWC (2021.8) </li>
-  <li>NRI summer IS(ITsolution) (2021.8)</li>
-    <li>NEC Innovator's Camp (2021.9)</li>
-<li>Heroes League 2021 (2021.11)</li>
 <br>
